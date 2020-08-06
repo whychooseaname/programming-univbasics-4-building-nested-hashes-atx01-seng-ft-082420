@@ -1,6 +1,8 @@
 def base_hash
-  hash=:railroads => {
-  :pieces => 4  
+  hash = {
+    :railroads => {
+      :pieces => 4  
+      }
   }
     
   
