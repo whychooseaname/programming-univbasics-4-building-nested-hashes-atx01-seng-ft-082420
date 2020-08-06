@@ -39,11 +39,12 @@ hash = {
       :three_pieces_owned=> 100,
       :four_pieces_owned=> 200
        },
-      :names => {
-        :reading_railroad => {}
-        :pennsylvania_railroad => {}
-        :b_and_o_railroad => {}
-        :shortline_railroad => {}
+      :names=> 
+      {
+        :reading_railroad=> {}
+        :pennsylvania_railroad=> {}
+        :b_and_o_railroad=> {}
+        :shortline_railroad=> {}
       }
     }
   }
