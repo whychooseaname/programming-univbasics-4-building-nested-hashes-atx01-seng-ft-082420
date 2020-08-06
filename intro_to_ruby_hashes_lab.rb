@@ -47,7 +47,7 @@ hash = {
 end
 
 def monopoly_with_fourth_tier
-hash = {
+{
   :railroads=> 
   {
     :pieces=> 4,  
